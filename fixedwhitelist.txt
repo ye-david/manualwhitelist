@@ -264,3 +264,12 @@ track.webgains.com
 ad.atdmt.com
 clickserve.dartsearch.net
 5231.xg4ken.com
+shareasale-analytics.com
+www.kqzyfj.com
+api.branch.io
+settings.crashlytics.com
+api.leanplum.com
+t.appsflyer.com
+api.datadoghq.com
+events.appsflyer.com
+app-measurement.com
