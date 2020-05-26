@@ -267,9 +267,5 @@ clickserve.dartsearch.net
 shareasale-analytics.com
 www.kqzyfj.com
 api.branch.io
-settings.crashlytics.com
 api.leanplum.com
-t.appsflyer.com
 api.datadoghq.com
-events.appsflyer.com
-app-measurement.com
